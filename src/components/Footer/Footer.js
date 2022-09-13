@@ -8,3 +8,5 @@ export default function footer() {
     </div>
   );
 }
+
+//netlify
